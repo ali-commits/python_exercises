@@ -32,3 +32,13 @@
 ### 7. Generate Patterns Based on User Input
 - **Task**: Ask the user for a pattern type (e.g., star, spiral) and the number of iterations. Draw the specified pattern multiple times.
 - **Hint**: You can create functions for different patterns and call them based on user input.
+
+### 8. Create a snowflake
+- **Task**: Create a snowflake using turtle graphics.
+
+- use this image as a reference:
+- ![snowflake](snawflake.png)
+
+
+### 9. Create a pattern based on your imagination
+![pattern1](pattern1.png)
